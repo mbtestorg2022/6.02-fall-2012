@@ -71,10 +71,63 @@ Grading
 
 Your final grade will be determined as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quiz 1 | 17% |
-| Quiz 2 | 18% |
-| Quiz 3 | 17% |
-| Problem sets | 5% each, 45% total |
-| Participation | 3%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+17%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+18%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+{{< tdopen >}}
+17%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+5% each, 45% total
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+3%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
