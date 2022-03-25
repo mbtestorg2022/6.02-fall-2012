@@ -40,7 +40,7 @@ LECTURE SLIDES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Errors, channel codes (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_02f12_lec03)
+[Errors, channel codes (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_02f12_lec03)
 {{< tdclose >}}
 
 {{< trclose >}}
