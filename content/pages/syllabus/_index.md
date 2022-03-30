@@ -14,7 +14,7 @@ Recitations: 2 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-[18.03](/courses/18-03sc-differential-equations-fall-2011/), [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/). The problem sets involve programming; they require knowledge of Python at the level of [6.00](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) or [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/).
+[18.03](/courses/18-03sc-differential-equations-fall-2011), [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011). The problem sets involve programming; they require knowledge of Python at the level of [6.00](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011) or [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011).
 
 Course Objectives
 -----------------
